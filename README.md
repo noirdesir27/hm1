@@ -19,7 +19,7 @@
 
 Собираю разные виниловые пластинки.
 
-Например:
+Например есть:
 *  [Jack White "Lazaretto"](https://ru.wikipedia.org/wiki/Lazaretto)
 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/2/26/Jack_White_-_Lazaretto.jpg)
