@@ -26,4 +26,4 @@
 ![alt text](https://img.discogs.com/gZ5kDj6CiT6kHt_QWLmOlr_tHwc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9183234-1476233436-8330.jpeg.jpg)
 * [The Beatles ‎– A Hard Day's Night](https://www.discogs.com/The-Beatles-A-Hard-Days-Night/release/649306)
 ![alt text](https://img.discogs.com/iHQFdMtPmyzQFncUZWnIe-00w9I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-649306-1391254571-9166.jpeg.jpg)
-**
+
